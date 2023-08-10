@@ -1,0 +1,20 @@
+.fondoEncabezado {
+    background-image: url(./imagenes/t30_co.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: flex-end;
+    color: rgb(255, 247, 240);
+}
+
+.altura{
+    height: 450px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    padding-right: 20px;
+}
